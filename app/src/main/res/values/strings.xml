@@ -1,0 +1,48 @@
+<!--
+ * Assignment #: HW02
+ * File Name: HW02 - strings.xml
+ * Full Name: Kristin Pflug
+-->
+
+<resources>
+    <string name="app_name">HW02</string>
+    <string name="main_activity_title">To Do List</string>
+    <string name="to_do_task_count_label">You have x tasks</string>
+    <string name="upcoming_tasks_label">Upcoming Tasks</string>
+    <string name="task_display_name"></string>
+    <string name="task_display_date"></string>
+    <string name="task_display_priority"></string>
+    <string name="view_task_button_label">View Task</string>
+    <string name="alertdialog_title">Select Task</string>
+    <string name="alertdialog_cancel_button">Cancel</string>
+    <string name="create_task_button_label">Create A Task</string>
+    <string name="no_tasks_label">None</string>
+    <string name="no_tasks_toast">You have no current tasks</string>
+
+    <string name="display_task_label">Display Task</string>
+    <string name="display_task_name_label">Name: </string>
+    <string name="display_task_name_text"></string>
+    <string name="display_task_date_label">Date: </string>
+    <string name="display_task_date_text"></string>
+    <string name="display_task_priority_label">Priority: </string>
+    <string name="display_task_priority_text"></string>
+    <string name="display_task_cancel_button_text">Cancel</string>
+    <string name="display_task_delete_button_text">Delete</string>
+
+    <string name="create_task_activity_title">Create Task</string>
+    <string name="create_task_name_label">Name: </string>
+    <string name="create_task_name_hint_text">Task Name</string>
+    <string name="create_task_date_label">Date: </string>
+    <string name="create_task_date_text"></string>
+    <string name="create_task_set_date_button_text">Set date</string>
+    <string name="create_task_priority_label">Priority: </string>
+    <string name="create_task_priority_high_radio">High</string>
+    <string name="create_task_priority_medium_radio">Medium</string>
+    <string name="create_task_priority_low_radio">Low</string>
+    <string name="create_task_cancel_button_text">Cancel</string>
+    <string name="create_task_submit_button_text">Submit</string>
+    <string name="no_name_entered_toast">Please enter a name</string>
+    <string name="no_date_picked_toast">Please choose a date</string>
+    <string name="no_priority_chosen_toast">Please choose a priority</string>
+    <string name="empty_form_toast">Please fill in the required fields</string>
+</resources>
